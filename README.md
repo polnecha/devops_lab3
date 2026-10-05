@@ -2,7 +2,6 @@
 
 ## Tests
 
-Hello, Remote World!
-
-Hello, Remote World!
-   Change from GitHub!
+Hello, GitHub Change!
+  
+Hello Change from GitHub!
