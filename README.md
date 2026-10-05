@@ -1,4 +1,3 @@
 # Lab3
-
-Hello, Local VM Change!
-
+## Tests
+Conflict Resolved! Both Local and Remote changes merged.
