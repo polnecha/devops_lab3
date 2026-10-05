@@ -1,4 +1,4 @@
 # Lab3
 
-Hello, Local World!
-Change from Local VM!
+Hello, Local VM Change!
+
